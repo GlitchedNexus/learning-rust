@@ -1,5 +1,5 @@
-mod conditionals;
+mod functions;
 
 fn main() {
-    conditionals::run();
+    functions::run();
 }
