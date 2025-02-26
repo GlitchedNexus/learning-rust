@@ -1,5 +1,5 @@
-mod cli;
+mod generics;
 
 fn main() {
-    cli::run();
+    generics::run();
 }
